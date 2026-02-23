@@ -163,14 +163,3 @@ This dashboard helps to:
 
 **Ridham Patel**
 Power BI Developer | Data Analytics Enthusiast
-
----
-
-If you want, I can also:
-
-* ✅ Make a more **technical recruiter-focused README**
-* ✅ Add a **LinkedIn-ready project description**
-* ✅ Give you GitHub repo structure suggestion
-* ✅ Create a professional project thumbnail banner for GitHub**
-
-Tell me what you want next 🚀
