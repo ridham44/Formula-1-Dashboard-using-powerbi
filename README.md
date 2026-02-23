@@ -1,9 +1,4 @@
 # Formula-1-Dashboard-using-powerbi
-Perfect 👌 Since your project is an **F1 Power BI Dashboard Project**, I’ll give you a professional GitHub README file that looks clean and impressive.
-
-You can copy this directly into your `README.md` file.
-
----
 
 # 🏎️ Formula 1 Analytics Dashboard – Power BI Project
 
